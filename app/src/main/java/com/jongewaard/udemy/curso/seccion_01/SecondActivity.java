@@ -23,7 +23,6 @@ public class SecondActivity extends AppCompatActivity {
         //Activar flecha ir hacia atrás
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
-
         textView = (TextView)findViewById(R.id.textViewMain);
         btnNext = (Button)findViewById(R.id.buttonGoSharing);
 
